@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=, initial-scale=1.0">
+  <title>LAB3-IK</title>
+</head>
+<body>
+
+  <header>
+    <h1>IMRAN KHAN</h1>
+  <img src="Imran_Ahmed_Khan_Niazi_-_UNGA_(48784380531)_(cropped).jpg" alt="Imran Khan (Ex-prime minister)" > <br>
+  <a href="https://en.wikipedia.org/wiki/Imran_Khan" target="_blank">More about Khan</a>
+  </header>
+  
+  
+  
+<main>
+  <article>
+    <hr>
+    <h2>Education</h2>
+  <p>Aitchison College and Cathedral School in Lahore and then Royal Grammar School Worcester in England,</p>
+  <p> In 1972, he enrolled in Keble College, Oxford where he studied Philosophy, Politics and Economics, graduating in 1975.</p>
+  </article>
+  
+  <section>
+    <hr>
+
+    <h2>Career and Experience</h2>
+    <table >
+      <tr>
+        <th>DATE</th>
+        <th>ROLE</th>
+      </tr>
+        <tr>
+          <td>1970</td>
+          <td>First Class Cricket</td>
+        </tr>
+        <tr>
+          <td>1971 to 1976</td>
+          <td>Played English County Cricket</td>
+        </tr>
+        <tr>
+          <td>1971</td>
+          <td>Test Cricket Debut</td>
+        </tr>
+        <tr>
+          <td>1992</td>
+          <td>Cricket World Cup</td>
+        </tr>
+        <tr>
+          <td>2017</td>
+          <td>Prime Minister of Pak</td>
+        </tr>
+      
+    </table>
+  
+    <hr>
+  
+    <h3>Hobbies</h3>
+    <p>Listening to Music, Watching Films.</p>
+    <p>Travelling, Cricket.</p>
+  </section>
+  
+  
+
+</main>
+
+  
+</body>
+</html>
